@@ -149,6 +149,6 @@ jupyter kernelspec remove <kernel_name>
 ### 💡 Author
 
 **Rakibul Hassan**  
-🎓 Port City International University  
-🚀 Machine Learning & AI Enthusiast
-"# A-Unified-Multimodal-Deep-Learning-Architecture-for-Multidimensional-Human-Emotion-Recognition" 
+Port City International University  
+Machine Learning & AI Enthusiast
+# A-Unified-Multimodal-Deep-Learning-Architecture-for-Multidimensional-Human-Emotion-Recognition" 
