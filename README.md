@@ -1,4 +1,4 @@
-# Mulitimodal-Speech-Emotion-Recognition
+# A-Unified-Multimodal-Deep-Learning-Architecture-for-Multidimensional-Human-Emotion-Recognition" 
 A  Tensorflow implementation of Speech Emotion Recognition using Audio signals and Text Data
 
 
@@ -151,4 +151,3 @@ jupyter kernelspec remove <kernel_name>
 **Rakibul Hassan**  
 Port City International University  
 Machine Learning & AI Enthusiast
-# A-Unified-Multimodal-Deep-Learning-Architecture-for-Multidimensional-Human-Emotion-Recognition" 
